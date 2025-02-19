@@ -45,11 +45,11 @@
 
 5. **回到仓库，在仓库的 **Actions** 标签页确认测试通过**
    
-![](./image/p1.jpg)
+   ![](./image/p1.jpg)
 
-![](./image/p6.jpg)
+   ![](./image/p6.jpg)
 
-![](./image/p7.jpg)
+   ![](./image/p7.jpg)
 
    当显示绿色标点时即为提交成功！
 
