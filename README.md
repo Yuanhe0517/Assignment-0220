@@ -26,7 +26,14 @@
     ```
    
    下一步就是将本地文件重载到线上仓库，这一步我们需要通过**密钥**来进行身份验证：
+   
+   进入setting
    ![进入settings](./image/p2.jpg)
+
+   进入general setting,获取密钥
+   ![](./image/p3.jpg)
+   ![](./image/p4.jpg)
+   ![](./image/p5.jpg)
    
    使用
    ```
