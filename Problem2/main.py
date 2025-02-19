@@ -15,11 +15,7 @@ def calculate_polynomial(n: int, x: int, xi_list: list) -> int:
     展开式的计算结果
 
     """
-    result = 1
 
-    # 学生实现区
-    for xi in xi_list:
-        result *= (x - xi) 
         
     return result
 
