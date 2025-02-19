@@ -29,17 +29,15 @@
    
    进入setting
    ![进入settings](./image/p2.jpg)
-
-   进入general setting,获取密钥
    ![](./image/p3.jpg)
    ![](./image/p4.jpg)
    ![](./image/p5.jpg)
-   
-   使用
+   **复制这段密钥，注意要及时保存**
+   接着在原命令行输入
    ```
    git push 
    ```
-   会要求输入你的帐号名与**密钥**
+   输入你的帐号名与密钥即可
 
 5. **在仓库的 **Actions** 标签页确认测试通过**
 ![](./image/p1.jpg)
