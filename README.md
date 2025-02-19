@@ -22,8 +22,15 @@
    git add main.py
 
    git commit -m "完成题目"
+
+   、、、
+   下一步就是将本地文件重载到线上仓库
+   
+   使用
+   、、、
    git push 
 
    ```
+
 4. **在仓库的 **Actions** 标签页确认测试通过**
 ![](./image/p1.jpg)
