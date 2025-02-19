@@ -1,12 +1,13 @@
 # Assignment-0220
+---
 ## 如何开始
-
+##以Problem1 为例##
 1. **克隆仓库**
    ```bash
 
-   git clone https://github.com/your-classroom/assignment-2.git
+   git clone https://github.com/your-classroom/assignment.git
 
-   cd assignment-2/problem2
+   cd assignment/problem1
 
    ```
 
