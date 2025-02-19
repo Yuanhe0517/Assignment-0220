@@ -1,29 +1,7 @@
 # main.py
 
 def calculate_S(a0, a1, x0, x1, x):
-    # Step 1: Initialize s0 and s1
-
-    s0 = a0
-
-    s1 = a1
-
-    # Step 2: Update s0 and s1 based on the given formula
-
-    # For i=0, j=1
-
-    if 0 != 1:
-        s0 = (x - x1) / (x0 - x1) * s0
-
-    
-    # For i=1, j=0
-
-    if 1 != 0:
-        s1 = (x - x0) / (x1 - x0) * s1
-
-    
-    # Step 3: Set S = s0 + s1
-
-    S = s0 + s1
+    #输入区
 
     
     return S
