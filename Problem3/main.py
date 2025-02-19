@@ -1,7 +1,5 @@
 def horner_method(coefficients, x):
-    result = coefficients[0]
-    for coeff in coefficients[1:]:
-        result = result * x + coeff
+
 
     return result
 
@@ -11,5 +9,4 @@ if __name__ == "__main__":
     coefficients = list(map(float, input().split()))
     
     # 计算并输出结果
-
     print(horner_method(coefficients, x0))
