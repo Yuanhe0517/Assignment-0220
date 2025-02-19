@@ -6,7 +6,7 @@
 
    git add main.py
 
-   git commit -m "完成题目2"
+   git commit -m "完成题目"
    git push origin main
 
    ```
