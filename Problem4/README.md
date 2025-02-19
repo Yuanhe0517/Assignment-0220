@@ -41,20 +41,3 @@ $$
 
 ---
 
-## 文件说明
-
-### `main.py`
-
-这个文件实现了计算左侧和右侧的函数，并计算出满足条件时的项数。
-
-- `left_side(x, num_terms)`：计算给定 \(x\) 和项数下的左侧值。
-- `right_side(x)`：计算右侧的值。
-- `find_num_terms(x, tolerance=1e-6)`：逐步增加项数，直到左侧和右侧的差异小于指定的容差值 $$10^{-6}$$，并返回所需的项数。
-
-### `test.py`
-
-该文件使用 Python 的 `unittest` 框架来测试 `main.py` 中的功能，主要验证 `find_num_terms` 函数是否能够正确计算出满足差异条件的项数。
-
-- `test_find_num_terms`：检查 `find_num_terms` 函数计算出的项数是否正确。
-
----
