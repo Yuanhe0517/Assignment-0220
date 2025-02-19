@@ -1,9 +1,8 @@
 # main.py
 
 def calculate_sum():
-    # 学生需在此编写代码
-    return sum(range(1, 51))
-    pass
+    # 在此编写代码
+
 
 if __name__ == "__main__":
     result = calculate_sum()
